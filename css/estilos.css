@@ -1,12 +1,12 @@
 body{
-
     font-family: cursive;
+    background: #fff;
 }
 
 
 .container{
 
-    text-align: left;
+    text-align: center;
     border: 2px solid #000;
     margin: 0px 5px 5px 5px;
     padding: 5px;
@@ -19,11 +19,15 @@ color: #000;
 
 }
 
+.title{
+     color: brown;
+}
+
 
 #cabecera{
 
     color: #fff;
-    background-color: rgb(154, 62, 159);
+    background-color: rgb(33, 59, 204);
     text-align: left;
     height: 50px;
     width: 100%;
